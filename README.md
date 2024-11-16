@@ -8,7 +8,7 @@ from their github repo
 
 if you have any problems, contact hlu_nsc on discord
 
-Some Neverdines collect Discord Tokens (Discord access codes), and some remote control codes. 
+Neverdies also has a code that allows developers to put a rat (remote access trojan) in at any time!
 Neverdies developers are false and should not be trusted 😂.
 Images.
 ![screenshot](image.png)
